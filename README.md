@@ -1,5 +1,6 @@
 # Password-Strength-Analyzer
 This is a Python application that evaluates password strength in real-time.
+
 ![Password checker GUI](https://github.com/user-attachments/assets/a3821e1c-9f82-46cf-8498-7752fd42851d)
 
 ## Features
